@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background: #ffe5e5;
+}
+footer a {
+  color: #e36414;
+  padding: 15px;
+}
+
+img {
+  width: 80%;
+  border-radius: 5px;
+}
+
+footer {
+  margin: 15px 0;
+}
